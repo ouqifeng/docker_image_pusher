@@ -1,1 +1,1 @@
-yandex/clickhouse-server
+nginx
