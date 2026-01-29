@@ -2,4 +2,4 @@
 #anapsix/alpine-java:8_server-jre_unlimited
 # nacos 2.5.0
 nacos/nacos-server:v2.5.0
-tonistiigi/binfmt:latest
+--platform=linux/arm64 tonistiigi/binfmt:latest
